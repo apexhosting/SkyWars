@@ -1,0 +1,29 @@
+lastAccountName: Gullible
+timestamps:
+  login: 1528732417957
+  lastteleport: 1524752733760
+  logout: 1528732425732
+ipAddress: 94.173.31.113
+lastlocation:
+  world: hub
+  x: 870.8692852158796
+  y: 171.61376887053996
+  z: 243.5337406577484
+  yaw: 30.638737
+  pitch: 35.018444
+logoutlocation:
+  world: hub
+  x: 832.8640799987465
+  y: 194.53503580630948
+  z: 221.48056881041995
+  yaw: -49.029804
+  pitch: 46.97675
+homes:
+  home:
+    world: hub
+    x: 894.5006693256584
+    y: 156.0
+    z: 237.3702861036303
+    yaw: 19.489532
+    pitch: 2.2252061
+afk: false

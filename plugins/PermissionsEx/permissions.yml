@@ -1,0 +1,83 @@
+groups:
+  default:
+    options:
+      default: true
+    permissions:
+    - nte.default
+    - modifyworld.*
+    - essentials.warp
+    - essentials.tpdeny
+    - essentials.tpaccept
+    - essentials.tpa
+    - essentials.spawn
+    - essentials.silentquit
+    - essentials.silentvanish
+    - essentials.silentjoin
+    - essentials.sethome
+    - essentials.seen
+    - essentials.rules
+    - essentials.rukes
+    - essentials.realname
+    - essentials.pay
+    - essentials.msgtoggle
+    - essentials.msg.url
+    - essentials.msg
+    - essentials.motd
+    - essentials.mail.send
+    - essentials.mail
+    - essentials.list
+    - essentials.kits.combat
+    - essentials.kits.starter
+    - essentials.kit.starter
+    - essentials.kit.combat
+    - essentials.kit
+    - essentials.home
+    - essentials.helpop
+    - essentials.help
+    - essentials.delhome
+    - essentials.chat.url
+    - essentials.balancetop
+    - essentials.balance.others
+    - essentials.balance
+    - essentials.signs.use.*
+  Staff:
+    options:
+      weight: '10'
+    permissions:
+    - -nte.default
+    - modifyworld.*
+    - essentials.fly
+    - essentials.tphere
+    - essentials.tempmute
+    - essentials.mute
+    - essentials.unban
+    - essentials.ban
+    - essentials.tp
+    - essentials.tpo
+    inheritance:
+    - default
+  Senior-Staff:
+    inheritance:
+    - Staff
+    permissions:
+    - -nte.staff
+    - '*'
+  owner:
+    permissions:
+    - '*'
+schema-version: 1
+users:
+  ab32b857-1f3a-4742-b0e0-b193a992813a:
+    permissions:
+    - '*'
+    - staff
+    group:
+    - owner
+    - Staff
+    options:
+      name: Gullible
+  0171a0ca-8694-435d-817b-88a33207d29e:
+    group:
+    - Staff
+    options:
+      name: SebastianDJio
