@@ -1,0 +1,56 @@
+# Create different launchpad types
+# The key is the name of the launchpad used in signs
+# Any effect can be removed to disable it
+
+default:
+  type: REGULAR
+  effects:
+    sound:
+      type: ENTITY_FIREWORK_ROCKET_SHOOT
+      volume: 1.0
+      pitch: 1.0
+    particle:
+      type: FLAME
+      amount: 1
+      delay: 1
+alltheeffects:
+  # The type of the launchpad
+  # Possible values: REGULAR, LOOK
+  # "REGULAR" launchpads launch players based on velocities
+  # -> <x>,<y>,<z>
+  # "LOOK" launchpads launch players based on the direction they look
+  # -> <power>,<offset> which works great with 2,1 for example
+  type: REGULAR
+  # Different effects the launchpad can have
+  effects:
+    # Sound effect where type is the sound effect name
+    # and volume & pitch are the volume and pitch of the sound effect
+    sound:
+      type: ENTITY_FIREWORK_ROCKET_SHOOT
+      volume: 1.0
+      pitch: 1.0
+    # Particle effect where type is the particle effect name
+    # and amount is the amount of particles
+    # and delay is the delay between each particle in ticks
+    particle:
+      type: FLAME
+      amount: 1
+      delay: 1
+    # Command which is executed when the launchpad is activated
+    # Executor defines the command executor: PLAYER, CONSOLE
+    # <player> placeholder is replaced with the player name
+    command:
+      command: "give <player> minecraft:stick 1"
+      executor: CONSOLE
+    # Potion effect which is applied on launch.
+    # Effect is the potion effect name, duration is the duration in seconds
+    # and amplifier is the amplifier of the potion effect (0 = I, 1 = II etc.), and particles is
+    # whether the potion effect should display particles
+    potion:
+      effect: SPEED
+      duration: 10
+      amplifier: 0
+      particles: true
+    # Message which is sent to the player when the launchpad is activated
+    message:
+      text: "&5&lBoom!"

@@ -1,13 +1,48 @@
-welcome:
-  location: hub, 865.5, 166, 245
+i1:
+  location: skywars_world, 3.463, 69.663, 37.494
   lines:
-  - '&5&lUHC '
-  - ''
-  - '&dWelcome to &5UHC&f.'
-  - '&7&oWe hope you enjoy your stay here!'
-  - ''
-  - '&7Store &8» &f<donation link here>'
-  - '&7Website &8» &f<website link here>'
-  - ''
-  - '&dJoin a game and wait for it to start!'
-  - ''
+  - '&eClick Sign'
+i2:
+  location: skywars_world, 2.364, 69.663, 35.558
+  lines:
+  - '&eClick Sign'
+i3:
+  location: skywars_world, 1.375, 69.663, 33.530
+  lines:
+  - '&eClick Sign'
+i4:
+  location: skywars_world, 0.202, 69.663, 31.542
+  lines:
+  - '&eClick Sign'
+i5:
+  location: skywars_world, -0.750, 70.641, 25.527
+  lines:
+  - '&eClick Sign'
+i6:
+  location: skywars_world, 0.272, 70.641, 23.369
+  lines:
+  - '&eClick Sign'
+i7:
+  location: skywars_world, 1.382, 70.641, 21.401
+  lines:
+  - '&eClick Sign'
+i8:
+  location: skywars_world, 3.347, 70.641, 19.382
+  lines:
+  - '&eClick Sign'
+i9:
+  location: skywars_world, 5.290, 70.641, 18.590
+  lines:
+  - '&eClick Sign'
+a1:
+  location: skywars_world, 4.316, 68.601, 43.371
+  lines:
+  - '&eRight Click'
+a2:
+  location: skywars_world, 2.708, 68.601, 41.590
+  lines:
+  - '&eRight Click'
+a3:
+  location: skywars_world, 5.528, 68.601, 45.247
+  lines:
+  - '&eRight Click'

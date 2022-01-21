@@ -1,0 +1,15 @@
+Mystery-Vaults:
+  '1':
+    BlockFace: EAST
+    Location:
+      world: skywars_world
+      x: 11.0
+      y: 71.0
+      z: 18.0
+  '2':
+    BlockFace: NORTH
+    Location:
+      world: skywars_world
+      x: 16.0
+      y: 71.0
+      z: 23.0

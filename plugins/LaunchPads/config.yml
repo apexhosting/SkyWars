@@ -1,0 +1,7 @@
+signYOffset: -2
+falldamage:
+  # Should the plugin prevent fall damage?
+  prevent: true
+  # Time multiplier for fall damage prevention
+  # Only change this if you're experiencing issues with fall damage
+  multiplier: 1.255

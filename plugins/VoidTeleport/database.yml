@@ -1,0 +1,6 @@
+worlds:
+  skywars_world:
+    spawnpoint: skywars_world:16.5:70.0:18.5:34.498627:-2.700166
+    y-void: 0.0
+    enabled: true
+    keep-inventory: true

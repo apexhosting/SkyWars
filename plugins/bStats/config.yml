@@ -3,5 +3,5 @@
 # This has nearly no effect on the server performance!
 # Check out https://bStats.org/ to learn more :)
 enabled: true
-serverUuid: 6d91a1c6-f606-4090-92d7-5bed32af99d4
+serverUuid: ca1a9354-5dd2-4874-91a6-d6dd742180a3
 logFailedRequests: false
