@@ -91,7 +91,7 @@ chests:
   maxItemsChest: 26
   maxItemsDoubleChest: 53
 kit:
-  menuSize: 45
+  menuSize: 16
   randPos: 0
   randItem: NETHER_STAR
   noKitPos: 44
@@ -242,11 +242,11 @@ leaderboards:
   leaderboardUpdateInterval: 300
   signsEnabled: true
   headsEnabled: true
-  winsLeaderboardEnabled: false
-  lossesLeaderboardEnabled: false
-  killsLeaderboardEnabled: false
-  deathsLeaderboardEnabled: false
-  xpLeaderboardEnabled: false
+  winsLeaderboardEnabled: true
+  lossesLeaderboardEnabled: true
+  killsLeaderboardEnabled: true
+  deathsLeaderboardEnabled: true
+  xpLeaderboardEnabled: true
 disable-commands:
   exceptions:
   - msg

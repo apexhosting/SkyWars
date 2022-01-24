@@ -10,7 +10,6 @@ header-footer:
     - "&7Online players: &e%online%"
     - "&7Online staff: &e%staffonline%"
     - ""
-    - ""
   footer:
     - ""
     - "%animation:time%"

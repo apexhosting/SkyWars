@@ -46,3 +46,8 @@ a3:
   location: skywars_world, 5.528, 68.601, 45.247
   lines:
   - '&eRight Click'
+Welcome:
+  location: skywars_world, 8.287, 70.796, 26.597
+  lines:
+  - '&7&lAPEX &e&LSKYWARS'
+  - '&cJoin the eternal sky battles!'

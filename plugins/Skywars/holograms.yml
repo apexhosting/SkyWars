@@ -16,6 +16,7 @@ leaderboard:
       - '&610th {player_10} - &b{wins_10}'
       - item:DIAMOND
       locations:
+      - skywars_world:15.505359740194951:72.02762608936223:30.93123570631583:0.0:0.0
     topplayer:
       format:
       - item:{playerhead_1}
@@ -24,7 +25,6 @@ leaderboard:
       - '&6wins: &b{wins_1}'
       - '&6Kills: &b{kills_1}'
       - item:{playerhead_1}
-      locations:
   kills:
     leaders:
       format:
@@ -42,6 +42,7 @@ leaderboard:
       - '&610th {player_10} - &b{kills_10}'
       - item:DIAMOND
       locations:
+      - skywars_world:13.252173793502516:72.3963275440131:36.34433821448721:0.0:0.0
     topplayer:
       format:
       - item:{playerhead_1}
@@ -50,7 +51,6 @@ leaderboard:
       - '&6kills: &b{kills_1}'
       - '&6Kills: &b{wins_1}'
       - item:{playerhead_1}
-      locations:
   xp:
     leaders:
       format:
@@ -67,7 +67,6 @@ leaderboard:
       - '&69th {player_9} - &b{xp_9}'
       - '&610th {player_10} - &b{xp_10}'
       - item:DIAMOND
-      locations:
   losses:
     leaders:
       format:
@@ -84,7 +83,6 @@ leaderboard:
       - '&69th {player_9} - &b{losses_9}'
       - '&610th {player_10} - &b{losses_10}'
       - item:DIAMOND
-      locations:
   deaths:
     leaders:
       format:
@@ -102,4 +100,4 @@ leaderboard:
       - '&610th {player_10} - &b{deaths_10}'
       - item:DIAMOND
       locations:
-  
+      - skywars_world:10.625524184467116:72.7138613346535:41.39400551763981:0.0:0.0
