@@ -13,7 +13,7 @@ resourcepack: https://www.dropbox.com/s/8scs6c911y3mqbg/taunts-resource-pack.zip
 promptForResourcePackOnJoin: false
 lobbyBoardEnabled: true
 displayPlayerLevelOnXpBar: true
-enabledLobbyGuard: false
+enabledLobbyGuard: true
 economyEnabled: false
 clearInventoryOnLobbyJoin: true
 timeFormat: simplified
@@ -32,7 +32,7 @@ game:
   enableWinMessage: true
   enableLookDirection: true
   worldBorder:
-    enabled: false
+    enabled: true
     borderSize: 400
   showHealth: true
   snowballDamage: 1
@@ -49,7 +49,7 @@ game:
   vip4Multiplier: 5
   vip5Multiplier: 10
   timeAfterMatch: 15
-  waitTimer: 10
+  waitTimer: 35
   resetTimerOnJoin: false
   kitVotingEnabled: false
   spectateEnabled: true
@@ -91,7 +91,7 @@ chests:
   maxItemsChest: 26
   maxItemsDoubleChest: 53
 kit:
-  menuSize: 16
+  menuSize: 18
   randPos: 0
   randItem: NETHER_STAR
   noKitPos: 44

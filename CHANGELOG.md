@@ -1,6 +1,12 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [1.2]
+
+- Fixed permissions issues.
+- Added worldborder and arena roofs.
+- Added new items into all modes.
+- Fixed kits selection issues.
 
 ## [1.1]
 
@@ -17,4 +23,5 @@ All notable changes to this project will be documented in this file.
 - Available on 1.8-1.18.1.
 
 [1.0]: https://github.com/apexhosting/SkyWars/releases/tag/1.0
-[1.0]: https://github.com/apexhosting/SkyWars/releases/tag/1.1
+[1.1]: https://github.com/apexhosting/SkyWars/releases/tag/1.1
+[1.2]: https://github.com/apexhosting/SkyWars/releases/tag/1.2

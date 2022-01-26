@@ -43,7 +43,7 @@ npc:
         executionMode: LINEAR
         experienceCost: -1.0
         hideErrorMessages: false
-    traitnames: equipment,sneak,inventory,type,location,skintrait,owner,spawned,mounttrait,commandtrait,scoreboardtrait
+    traitnames: type,spawned,sneak,skintrait,scoreboardtrait,location,inventory,equipment,mounttrait,owner,commandtrait
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -80,7 +80,7 @@ npc:
         executionMode: LINEAR
         experienceCost: -1.0
         hideErrorMessages: false
-    traitnames: equipment,sneak,inventory,type,location,skintrait,owner,spawned,mounttrait,commandtrait,scoreboardtrait
+    traitnames: type,sneak,skintrait,spawned,scoreboardtrait,location,inventory,equipment,mounttrait,commandtrait,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -117,7 +117,7 @@ npc:
         executionMode: LINEAR
         experienceCost: -1.0
         hideErrorMessages: false
-    traitnames: equipment,sneak,inventory,type,location,skintrait,owner,spawned,mounttrait,commandtrait,scoreboardtrait
+    traitnames: type,sneak,spawned,skintrait,scoreboardtrait,location,inventory,equipment,mounttrait,owner,commandtrait
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -154,7 +154,7 @@ npc:
         executionMode: LINEAR
         experienceCost: -1.0
         hideErrorMessages: false
-    traitnames: equipment,sneak,inventory,type,location,skintrait,owner,spawned,mounttrait,commandtrait,scoreboardtrait
+    traitnames: type,skintrait,sneak,spawned,scoreboardtrait,location,inventory,equipment,mounttrait,commandtrait,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -191,7 +191,7 @@ npc:
         executionMode: LINEAR
         experienceCost: -1.0
         hideErrorMessages: false
-    traitnames: equipment,inventory,sneak,type,location,skintrait,owner,spawned,mounttrait,commandtrait,scoreboardtrait
+    traitnames: type,skintrait,sneak,spawned,scoreboardtrait,location,inventory,equipment,mounttrait,commandtrait,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -228,7 +228,7 @@ npc:
         executionMode: LINEAR
         experienceCost: -1.0
         hideErrorMessages: false
-    traitnames: equipment,inventory,sneak,type,location,skintrait,spawned,owner,mounttrait,commandtrait,scoreboardtrait
+    traitnames: type,skintrait,spawned,sneak,scoreboardtrait,location,inventory,equipment,mounttrait,commandtrait,owner
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -265,7 +265,7 @@ npc:
         executionMode: LINEAR
         experienceCost: -1.0
         hideErrorMessages: false
-    traitnames: equipment,inventory,sneak,type,location,skintrait,owner,spawned,mounttrait,commandtrait,scoreboardtrait
+    traitnames: type,skintrait,spawned,sneak,scoreboardtrait,location,inventory,equipment,mounttrait,owner,commandtrait
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -302,7 +302,7 @@ npc:
         executionMode: LINEAR
         experienceCost: -1.0
         hideErrorMessages: false
-    traitnames: equipment,sneak,inventory,type,location,skintrait,owner,spawned,mounttrait,commandtrait,scoreboardtrait
+    traitnames: type,sneak,skintrait,spawned,scoreboardtrait,location,inventory,equipment,mounttrait,owner,commandtrait
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -339,7 +339,7 @@ npc:
         executionMode: LINEAR
         experienceCost: -1.0
         hideErrorMessages: false
-    traitnames: equipment,inventory,sneak,type,location,skintrait,spawned,owner,mounttrait,commandtrait,scoreboardtrait
+    traitnames: type,spawned,skintrait,sneak,scoreboardtrait,location,inventory,equipment,mounttrait,owner,commandtrait
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -386,7 +386,7 @@ npc:
             globalcooldown: 0
             n: -1
             delay: 0
-    traitnames: equipment,inventory,sneak,type,location,skintrait,owner,spawned,mounttrait,commandtrait,scoreboardtrait
+    traitnames: type,skintrait,spawned,sneak,scoreboardtrait,location,inventory,equipment,mounttrait,owner,commandtrait
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -433,7 +433,7 @@ npc:
             globalcooldown: 0
             n: -1
             delay: 0
-    traitnames: equipment,inventory,sneak,type,location,skintrait,owner,spawned,mounttrait,commandtrait,scoreboardtrait
+    traitnames: type,skintrait,sneak,spawned,scoreboardtrait,location,inventory,equipment,mounttrait,owner,commandtrait
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -480,7 +480,7 @@ npc:
             globalcooldown: 0
             n: -1
             delay: 0
-    traitnames: equipment,sneak,inventory,type,location,skintrait,owner,spawned,mounttrait,commandtrait,scoreboardtrait
+    traitnames: type,sneak,spawned,skintrait,scoreboardtrait,location,inventory,equipment,mounttrait,owner,commandtrait
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
