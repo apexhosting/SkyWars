@@ -1,0 +1,71 @@
+inventory:
+- ==: org.bukkit.inventory.ItemStack
+  v: 2730
+  type: ENDER_PEARL
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+armor:
+- null
+- null
+- null
+- null
+requirePermission: false
+icon:
+  ==: org.bukkit.inventory.ItemStack
+  v: 2730
+  type: ENDER_PEARL
+lockedIcon:
+  ==: org.bukkit.inventory.ItemStack
+  v: 2730
+  type: BARRIER
+position: 6
+page: 1
+name: '&3Warper'
+enabled: true
+lores:
+  unlocked: '&3Warper &7Kit'
+  locked: '&cA permission is required to unlock this kit!'
+gameSettings:
+  noRegen: false
+  noPvp: false
+  soupPvp: false
+  noFallDamage: false
+filename: warper

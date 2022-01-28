@@ -1,0 +1,490 @@
+# Citizens NPC Storage
+
+
+
+
+
+
+
+
+
+
+
+
+
+last-created-npc-id: 12
+npc:
+  '9':
+    name: §7Mythic
+    uuid: 2d49c075-d9ca-4d94-850b-760e78c41d98
+    traits:
+      owner:
+        uuid: f0e7f028-4955-4dc8-8e40-d334ef0bd19a
+      location:
+        bodyYaw: -125.95557
+        world: skywars_world
+        x: '0.3428'
+        y: '67.0'
+        z: '31.5247'
+        yaw: '-125.9556'
+        pitch: '-7.4995'
+      spawned: true
+      sneak:
+        sneaking: false
+      skintrait:
+        fetchDefaultSkin: true
+        updateSkins: false
+        signature: qXTPel39H3Ou42fdsQfVhJFpGlES9MXZYUjgCA1zLq6MfVQCMH8xNTtYPmilo+yyTl3UyJA8Hyvke68wkf5emlyiL3jUu1SZuHVjtXmhd0I84vmOZrwIRgZ+aFnM6okBa49KUew0TQ2a8pnMnhjx6wITb23yJ7JRaEryzLkNj4OL7x3n8nIxf1L4mGp/IbBXOuGJ2H+f/ApqrveV2aluY/7HEMEP/3LSzBxyIF0m5S1REiMMQBZ6HbU7PsNr6HnKg1S+tBBXstQateZyiTf3ZgyW7pJrHshKes6TjEZ+0W6NqkDqki6XWs+rghgh7QXNy3PISolJnUG3OkSHoZQvZ+Jr6rXnw2eV/g6Qids/bjerEX3CbqaPNLX8k8FP1O4kD0YTkCP7YaZr4N9Ol9Jw1OXVwrbCY65M3GCNCJ19pC3MTutBH5/bcIp+diJTYr471Fp24It1JZFjvZIWE1yMjzNNbn1CKavIO7JHpXHAoV1BzA9/h1o1Y09qZRy/t80ZWsPlHXqsVrW7E/dRFgZYnS0+W6U6oDg+CYk+jxt/O6juE6Tdz7KgYRi9/RCBHvKWRnrvnpcE5yIZ/c1ErcrvCnNkp1BHDZ1Oegc11OfLOmDv3e2S2BQPCPVQQ/JLfpX1B0ZMzVW3xejSHqP1ycf4FyR7lJO3caWdF92ZYe30GIo=
+        skinName: hentzy
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTY0MjYxNzI4MDA3MywKICAicHJvZmlsZUlkIiA6ICIxZTgwYWM4ZDczZDk0YmRhOTc3ZDY0ZGRlNjdmM2M0NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJIZW50enkiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDMyNGRlNjIxOTgyNTIwZDk5N2FjYjYwY2EwMWE4MjY0MTFiZmUxODkyMjhmZDk3YWRjNmQyODBiYzM2YTQ4IgogICAgfSwKICAgICJDQVBFIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMzQwYzBlMDNkZDI0YTExYjE1YThiMzNjMmE3ZTllMzJhYmIyMDUxYjI0ODFkMGJhN2RlZmQ2MzVjYTdhOTMzIgogICAgfQogIH0KfQ==
+      type: PLAYER
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1.0
+        hideErrorMessages: false
+    traitnames: type,spawned,sneak,skintrait,scoreboardtrait,location,inventory,equipment,mounttrait,owner,commandtrait
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+    metadata:
+      cached-skin-uuid-name: hentzy
+      cached-skin-uuid: 1e80ac8d-73d9-4bda-977d-64dde67f3c46
+  '8':
+    name: §7Dawn
+    uuid: a3441145-d52a-4d0f-a57f-518ef2608555
+    traits:
+      owner:
+        uuid: f0e7f028-4955-4dc8-8e40-d334ef0bd19a
+      location:
+        bodyYaw: -136.80098
+        world: skywars_world
+        x: '1.4918'
+        y: '67.0'
+        z: '33.5006'
+        yaw: '-136.801'
+        pitch: '-7.0502'
+      spawned: true
+      sneak:
+        sneaking: false
+      skintrait:
+        fetchDefaultSkin: true
+        updateSkins: false
+        signature: MABX3IQbdyVl+L3WerRxAcc+2UajRsULubmBCtfwCeySZaN8oS6jIG9Ku2ht6npobBrCX1HzcnSt3l9ayTA8VQhF2ZIBdVTwTBEJ8IqAK1T+4BoGXDBQYSfrD8K3FRRP5DhpoaNgI2FQghDQkiVSxFr7zNp55LOgFtnYiBzujGn4Vi9FlX8QXIfHuFRr44HfzEgtQopp7VhbcqKkl5ahTYDD8BOI2hYkzuWQOLj/nonkNOoF55FPHa/OvuMrRngR2nH/YQpAe2gdMiUc/woc9l6Ksyj0dyoU7eb1f+rl8cxhTIRIIQA/CzUa5M5pAQUPrGOd3hvdvNXgpLXvefG2V5KCjtInbDhYldSsApJaqdRcZMpgMu3M2rAUrlMYiJYtCRyhOD81TbtASg66pUeIuxJ3vyEU7ZY9fwwPEem/9H9awa9xEED0oQT01lBod8CdQc5kgS0C/oOHy/fnJCz2j+dEjY2cXfXkeSWyxQEZZ3HuSvmc2yZnl67fToVgU3ldPejQ8VnEOIrNyVZBtbBKjvqGqcTy8HbzxR4V71gez63y5yViXvDzb+9zglIN9S86bPPfDXdccmWHnJpvJj+fJlXGoUZAWhBi+dXpLmThWBPo9aEHQ1Ir5SCy5TZoVdwzc+4Y6DFUhiqOhV8andPkY400xT9Dctz81WUZEEbjJy0=
+        skinName: moon_lifee
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTY0MjYxNzYwOTA3NiwKICAicHJvZmlsZUlkIiA6ICI3MGMxOWY3NDlkYmM0ZTI5ODE4NzA5ODA1OTI2MTE2OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJtb29uX2xpZmVlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRjYWNmZmM5M2M4NmMxZmUxZDE1MzY4ZDdjNTBhNTFlMTMwYmFkZGNiOWMxNzJhMDY1Yjg1NTQ4M2Q3ZmJlOTAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==
+      type: PLAYER
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1.0
+        hideErrorMessages: false
+    traitnames: type,sneak,skintrait,spawned,scoreboardtrait,location,inventory,equipment,mounttrait,commandtrait,owner
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+    metadata:
+      cached-skin-uuid-name: moon_lifee
+      cached-skin-uuid: 70c19f74-9dbc-4e29-8187-098059261168
+  '7':
+    name: §7Pines
+    uuid: 70705c47-a996-472f-bc66-d040ab8300b6
+    traits:
+      owner:
+        uuid: f0e7f028-4955-4dc8-8e40-d334ef0bd19a
+      location:
+        bodyYaw: -85.11719
+        world: skywars_world
+        x: '0.3699'
+        y: '68.0'
+        z: '23.4459'
+        yaw: '-85.1172'
+        pitch: '-0.7498'
+      spawned: true
+      sneak:
+        sneaking: false
+      skintrait:
+        fetchDefaultSkin: true
+        updateSkins: false
+        signature: UCE/WLw5zX9Vv/+dXO6VfnfH88torRyCARgIsRAM6m7mAUzww8XkFaDHbgyYSmp0Q9BsTIizkBk/GPpLAC7EGlKqsasi9FSGgWdjGRK1tLObO1dlIvQsU4jCNSzniUmwETCdkDQP7hYFZYNQdzKiBQ0OCZ0Bo+1XHWezr9iQnSTQ4o7NSVSYCjCKRrPSP6C5XX2bhyV3jRUbF2SAzkcA5/GgjdR9cmvAWE7m92J4nPz1C35AmLFam9dEe3lJDJLA5zFjboCZjumhZM+5dCtHtG4Q5dTZ6CHfhi9BowQXTwQN3fE3mTjVtT0EaePK+MIdQNQu8FTpn1li7wHcLVBr7HI770ceAbEQOgo6ROxLYsDY31ibHogu0EA5Byk1TUAJNC2MK/57YAoMYYQC23VdHMOhbq4U+CWPFmJp6Zu+mfG67yBPmzRQjjEYD1at2Lw7I10rOZCxvZ/9JxKLaZWWW7p0PTVTR9g75+uY9HWIJDBPkNkd95KBTOOiruaq73LKYmTmVHWhv7JttomCZJl9e7gqDUHHHo41Y2Ci5AkOg2b5FnoknNARy+SA1kqcxI5MqHHFvlZZ2cA+793EP4rF8lYZo3AfQ4ObhmnBn0PQoiQj1krFt7HWwuagUP0qxbw7mVrHBjDCzICNRc0cM0YjLo+6irZxZNVDa/oh3EeAaSY=
+        skinName: executivetree
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTY0MjYxNzcxNTA2NCwKICAicHJvZmlsZUlkIiA6ICI3YzhiYTEzZTgwZTk0YjM5OWViMjAzMTA3MTMxYTZiNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJFeGVjdXRpdmVUcmVlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzliYWM1NDFkZmI1NDhlMmVmZjllZGEwNTE2OGY1MjdjYjBhZTZmNDIzM2YyMmFiNzZhOTNkZDI4NzUzYmRmYTkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==
+      type: PLAYER
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1.0
+        hideErrorMessages: false
+    traitnames: type,sneak,spawned,skintrait,scoreboardtrait,location,inventory,equipment,mounttrait,owner,commandtrait
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+    metadata:
+      cached-skin-uuid-name: executivetree
+      cached-skin-uuid: 7c8ba13e-80e9-4b39-9eb2-03107131a6b6
+  '6':
+    name: §7Palace
+    uuid: 6bef5a62-2df5-4434-b5bc-d9b1b5384bea
+    traits:
+      owner:
+        uuid: f0e7f028-4955-4dc8-8e40-d334ef0bd19a
+      location:
+        bodyYaw: -52.605713
+        world: skywars_world
+        x: '5.3612'
+        y: '68.0'
+        z: '18.7028'
+        yaw: '-52.6057'
+        pitch: '-6.9001'
+      spawned: true
+      sneak:
+        sneaking: false
+      skintrait:
+        fetchDefaultSkin: true
+        updateSkins: false
+        signature: ebG+4CCkkmVDqXD7Kw7yNxWkaI3mXhXzG0bcM7ktDrBunzRzO51rgl0kOhnaFRaEuCSCZgv0cChbSh3e3/ztw0J6RLoKuiV0KHUzWQhgpsQtoRDTFNmkV075b84dZkrWaS33goFXHKVXNTYylenLMNZkbxUk6tk/04xmhucwVziDCOiiAQe5rZp4tgkN3M8j1JRnT6if+WGT/gxHVrk0Gxd+3eqCX3uICOg66K7AJaIdIwo1uRHkB4TFcZwMYCbpIo/urNpvnp8kQGX1n304zYilVwaOUR74wZ2aZ0lP1AHPADh5dDmtfjdSdi/lYO/lUNSAiek1/4SVcsgPO4tA6Uu5/2Ns/P+rA2eGf7dM8QL3gh5YsELp9EdLpTXqjM5tuO31B+TOoPDH6XfEhQzYpXPwrJw9sRIleGhYlXG5TT7ZEe8oEJvD7yLITBInEjkDxFzgBTUl6Ob/69QLYu7Mr75GfQx6ctYjxnAGH1Lm4SBVmuLGf/5Hv5xPNKViT8gordmcjMxSt5dhy4eTCGs6l8hwdUj5IV5CaEXXZCIjnHVrWyMY6MBoi4biEhIi9Tb/s1uoBrigv80t/7ytOMl6yHEj24g02wcRd5m0LCID3uNk9XM9PXYbeTH+m8URU4j2jI91qP6O8Q3hb7VIY+/hyRRa7IxamK2ZjTuJZwa7TyU=
+        skinName: sketchycandycane
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTY0MjYxNzc3OTA4NSwKICAicHJvZmlsZUlkIiA6ICJkZTg5ZGQ4YmYyNzA0OGQ5OTljMjUzZWQwYWVjZDcxNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJTa2V0Y2h5Y2FuZHljYW5lIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRhOWQwZWUxZDlhN2U3MTJmOWI0ZjVmMTJmNDBiNDcwZjM3YWQ2NzMyMGQxNzE4MTIyYjQ1NmU1MDk5YmZiODQiCiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIzNDBjMGUwM2RkMjRhMTFiMTVhOGIzM2MyYTdlOWUzMmFiYjIwNTFiMjQ4MWQwYmE3ZGVmZDYzNWNhN2E5MzMiCiAgICB9CiAgfQp9
+      type: PLAYER
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1.0
+        hideErrorMessages: false
+    traitnames: type,skintrait,sneak,spawned,scoreboardtrait,location,inventory,equipment,mounttrait,commandtrait,owner
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+    metadata:
+      cached-skin-uuid-name: sketchycandycane
+      cached-skin-uuid: de89dd8b-f270-48d9-99c2-53ed0aecd717
+  '5':
+    name: §7Japan
+    uuid: 2f0a4e6b-ecd3-414a-befd-bfe0a1436f5d
+    traits:
+      owner:
+        uuid: f0e7f028-4955-4dc8-8e40-d334ef0bd19a
+      location:
+        bodyYaw: -75.58032
+        world: skywars_world
+        x: '1.4873'
+        y: '68.0'
+        z: '21.4548'
+        yaw: '-75.5803'
+        pitch: '-3.4501'
+      spawned: true
+      sneak:
+        sneaking: false
+      skintrait:
+        fetchDefaultSkin: true
+        updateSkins: false
+        signature: GlGaq8LqPhwa6ci/Ch84cfMPhNJKCX18fv0xggT8tiD0axflOXOK1l+31Uuz/CzyATzoRhI22KyEEzYpuCmjKGeQEJFR7xH7F4sKHNHyPIu9JpAfqo1aLh4XTbuqrxhefqVt9A2f/elfigxaGCOWBZ/ObLQgNBdTxvA99pOERKr09AwFoFUuF5W31P3S0Eq0kDrKyflqi8ZiLIaXFIo8YbK9R9B8mRd1Vsi/k41+iCEQjgvmyaC8ELFb8t1xU0xDES5A86xrcU7n8/iaGg+RaAvBVKFjTHozhz6mtA2ZQj6PjC/cmpAmq13eoJfgWRvZjhki89pRN/zSCDPgqR7A4vY/A8pW9StPxvnu5R5q6wPYCckWj/K64FSxYa0rgrEn6xnOINOIocGa8jqvZ1Zp33BJTCEWsip340sufuClyXarkqZbUW37ydmF9M0PKikgvu38Zfbs1Mqrto4v6JvXI0+RC6X4wd15vW1r2m5kAKeIpLStLeCVlEjm7hq/gjx7q6K9K0daIqMxbBnSxmbmZ5ffTCrl48cVofrQqEAQ4IV4/4WE7Ig11FiTwZjjAr3B7fWHZ1wVqZfTNJXuUcK/TKIwZzwc5SjTi4DV+HRAIxl2cu+RgTasHuFBAjPgyyu9RqbiOjiZZpuXqwrLIYvSsAYzUkg7bUqhQRpF/aCeDsI=
+        skinName: rainytime
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTY0MjYxNzQ4OTA3NywKICAicHJvZmlsZUlkIiA6ICI1M2IwMDVkYzdmMGQ0ZWVkODg2OWJkODYzZGIzYWNlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSYWlueVRpbWUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTgzZWI5MjhhMWFkMTdlYTk1NmE4MWZhYzg0YWFjYzFjZTU5NmQyNzAzYTI5NDRiYjU5NDg3ZGUwYjMwMDQ3YyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9
+      type: PLAYER
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1.0
+        hideErrorMessages: false
+    traitnames: type,skintrait,sneak,spawned,scoreboardtrait,location,inventory,equipment,mounttrait,commandtrait,owner
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+    metadata:
+      cached-skin-uuid-name: rainytime
+      cached-skin-uuid: 53b005dc-7f0d-4eed-8869-bd863db3aceb
+  '4':
+    name: §7Memorial
+    uuid: 5d53cf91-7ead-499b-9c58-86cecc89d86b
+    traits:
+      owner:
+        uuid: f0e7f028-4955-4dc8-8e40-d334ef0bd19a
+      location:
+        bodyYaw: -63.114014
+        world: skywars_world
+        x: '3.4319'
+        y: '68.0'
+        z: '19.4459'
+        yaw: '-63.114'
+        pitch: '-3.5997'
+      spawned: true
+      sneak:
+        sneaking: false
+      skintrait:
+        fetchDefaultSkin: true
+        updateSkins: false
+        signature: KZAlQJwkio30YkMNpnAwR7Rz+pyYJ7xJvOntb+J/g4rCX+zWfsI92Sav7CRykqZaKRMxr17PVQzP8zhjI5/fSdmB9AB9q9CeZOijCsykCoK1MVKpkE3F32ILeetnx5HAYH9b8oIbeD2rG4GD8R+lBCfVn3yeVuKSrspIVuhA6aYcIGVeNaW1zX4P3YlZwLHw5x0XvI5IdvjnfaglEqq8beMkoBG7CHvSVM2dQt/Z8pfxSEHzStxz9j687D29NUxgaVH5U2UYJoJPf7AkqxRs9Nema1E4bXZ3FJ20C9JbHRj/PtEQDIKOqoW7FlILRPp2oP3UkbCdTvdX4ttz2PZpW5IJ+3hCd7TUJoDBeizTrVwGLCBnt0sZHDLD85CeObS+0mIZCx2aB2NEVaFW2EMf9rSdtuzQd0vvQPtVpotKs/KmWov28xGYWrC4gGCzVhUXHwvj6kTY8VXuDkqmokEb2Co38K6G/5UBPv0nKG2k7tEvisBnb35o2mP4sS1ExFpg1Im80cvYB0vGH4v7M4SHD5Xq1K/6hbvBBoRM6vIVExaxt7z8aFyVnq3RWriyJRi/bRzbLOwrqWSuMjO+g6gylVCpMQrIIDEjLEVxpj10A8Eq79StvQUVOkniL2aQVPng9mia6nysLYpa/6yxXaQ1VG10DsrInk06tsa/57Ht5y4=
+        skinName: stone
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTY0MjYxNzczOTA1NCwKICAicHJvZmlsZUlkIiA6ICI3MjM3MWFkZjJlOGQ0YzkyYTczNGE5M2M4Mjc5ZGViOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdG9uZSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85NmRhNzM1Yzg4ZTA4YjgwYmRmODE0MGIwYWRkOGQxODY5MGI4NWI0ZjkwMjViYjg4MWQ3YTE5MTM0MGYzYjMxIgogICAgfSwKICAgICJDQVBFIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMzQwYzBlMDNkZDI0YTExYjE1YThiMzNjMmE3ZTllMzJhYmIyMDUxYjI0ODFkMGJhN2RlZmQ2MzVjYTdhOTMzIgogICAgfQogIH0KfQ==
+      type: PLAYER
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1.0
+        hideErrorMessages: false
+    traitnames: type,skintrait,spawned,sneak,scoreboardtrait,location,inventory,equipment,mounttrait,commandtrait,owner
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+    metadata:
+      cached-skin-uuid-name: stone
+      cached-skin-uuid: 72371adf-2e8d-4c92-a734-a93c8279deb9
+  '3':
+    name: §7Cake
+    uuid: 53d9d9e6-9b68-45ff-823d-c355410066bd
+    traits:
+      owner:
+        uuid: f0e7f028-4955-4dc8-8e40-d334ef0bd19a
+      location:
+        bodyYaw: -142.56177
+        world: skywars_world
+        x: '2.4563'
+        y: '67.0'
+        z: '35.5052'
+        yaw: '-142.5618'
+        pitch: '-4.8'
+      spawned: true
+      sneak:
+        sneaking: false
+      skintrait:
+        fetchDefaultSkin: true
+        updateSkins: false
+        signature: N2DkpoEX5UbHKbfxGI9zg1uvAGSp22VpgGQuSP+G8i20A4VqSHZ/SBpimLc+MhNhQiYQRYaJRs9ps6ZIc1LVcFbbyg66iDyQ+3TRCx33k/LpmwFOgI5sbe8Eg89uZ1eTA1cOsWX0Tu6JNyjLsFy8zzP4zNGWZGPBb9h4ZoH6f/jtTNtyIXr0sGM0e/CKfwRrFvYwv0y0fr7dhSePJ55Eo6uN2TfNiNSaTCIAhLTRE61wSeS02AeRsQ6uvU7W+rFgxfkY3ofBb+t217cz8fZuqVT+sU6JQiAs5lryPDcAwYy3qrjwlchDLlsn5/TOQ6AIPg1daGH5vZ/wS8Zj2fpBhNu2cwtDXDKpi3SVYEk/C8ylJ/+L/N8WRVqxl/QTw0feKx+X2OTgeWpb6llOIm1aBzvjxO7pmIL8uAuVxmZVbfo4JZqAENmDDuW62H6ghYGJczvX5iYAm/CCjXyvNFcryhg0dwlTr1Zq+roN3WCr5dXhI9jaPRRsOf39hfVca8ysA0WDpEuMFnzaR8UB2Km2IasQAxx3DoZ7vZUO8jylkeQ7qlItvo0Rcm1gd67Aemi7dq83JpIDbuEJj9TX51m8NtJuQS7z5FpM+SGMqx6v1sSSTakFTWUNJQpqCUq23ClRN888Bldx2Wgt6Lu/2BqyVbIJZ10WumEDoboUyDL11iA=
+        skinName: gwoopy
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTY0MjYxNzE0OTA3NiwKICAicHJvZmlsZUlkIiA6ICJmZWY1OGQzMDEyZDU0MDdkYWU5Yjg1OGRjMWY1MWVhMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJHd29vcHkiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjE3MWRkMmUzNzhjMmIxM2Q5MGNlNmMyNDQxYmQyODI3NjYwNGRkOWE1ZWQ3NDc4ZDFmZWY4NDJiYjdmZDUyYSIKICAgIH0KICB9Cn0=
+      type: PLAYER
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1.0
+        hideErrorMessages: false
+    traitnames: type,skintrait,spawned,sneak,scoreboardtrait,location,inventory,equipment,mounttrait,owner,commandtrait
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+    metadata:
+      cached-skin-uuid-name: gwoopy
+      cached-skin-uuid: fef58d30-12d5-407d-ae9b-858dc1f51ea3
+  '1':
+    name: §7Trees
+    uuid: 399d6247-e0ba-41c6-96ae-412b6ec668d1
+    traits:
+      owner:
+        uuid: f0e7f028-4955-4dc8-8e40-d334ef0bd19a
+      location:
+        bodyYaw: -149.69916
+        world: skywars_world
+        x: '3.5102'
+        y: '67.0'
+        z: '37.5302'
+        yaw: '-149.6992'
+        pitch: '-2.4'
+      spawned: true
+      sneak:
+        sneaking: false
+      skintrait:
+        fetchDefaultSkin: true
+        updateSkins: false
+        signature: tVkDKEvhvqOaVHMRu16VD1CuHINUh8Q247cY2RI2/v0rCIRFBAYIvF+e56ShpIVsv4nmxlQBAI70PjiuxefN/z6tUlqnar45PA46fuP3GdJx+QhLTOL2dtASCPE/DQznzNK2ltBiLqmWxuWATLl/DHFSM5+msW9nOC0fmT2Cu52t+rCu3KTPN0TxMtNO2UzfYkbjhEp3esxxo3KSEMlL3Oamv7lw/5C/g5E3sxj8w9iCiULMEkdVWxWuVP0uCqgsDwULa6HsienQNNTIfQCode3iP9YnQV4S4fp7OsJ6CTcShC/g59NY5jtTYS6L3GyAQN2W2IjtNSr/EMyR3pS9rpn2Lx9DnXnZp0ZaUJsOBBj6KAq6PRliGtC74TSVXvDrev2NO5+JXaRSirBiy6/LbUfjN/xJ3cs59MDSLDh0cPpFdel+lLyRs76ZpmNF+98yKJpc/ZYafss5jtAMdzfK5LTZTJDdLE8ZB64npbSyJCuFhdfpVKaGYpDVcpCfVvXbtpP/U3qcg6KZdXmROGTeZRlHOLJN/eabFqpdQHE6XtvEGYrbKRXGZijVtYhKylBVXcd9v6MoGDotwwMjY8g0HJZaMT/kWnPl7yyyFYgko626eNIB2/mkniPtnhOjKQYSn2b+at+ouyhiKdnlW1PZg/n5Kd4OF6t9IRyH17gVMUQ=
+        skinName: trees
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTY0MjYxNzA3OTEwMywKICAicHJvZmlsZUlkIiA6ICI1NGZiNTcxYmFjNjk0YzkwYmVkMDBiZDU1MGRiYTYzZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0cmVlcyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jNzdmOGU0MzdhYzU2NTdhZjMwNzQ1ZTU1OTMwOWQ2ZTVmNmQ0YTU2NjRhZjcyOTE1OThiNmMyYmJhNGI1NDNhIgogICAgfQogIH0KfQ==
+      type: PLAYER
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1.0
+        hideErrorMessages: false
+    traitnames: type,sneak,skintrait,spawned,scoreboardtrait,location,inventory,equipment,mounttrait,owner,commandtrait
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+    metadata:
+      cached-skin-uuid-name: trees
+      cached-skin-uuid: 54fb571b-ac69-4c90-bed0-0bd550dba63e
+  '0':
+    name: §7Mars
+    uuid: a5ba7dbf-4108-4350-b29d-c44543e039f0
+    traits:
+      owner:
+        uuid: f0e7f028-4955-4dc8-8e40-d334ef0bd19a
+      location:
+        bodyYaw: -95.1033
+        world: skywars_world
+        x: '-0.5173'
+        y: '68.0'
+        z: '25.5522'
+        yaw: '-95.1033'
+        pitch: '-3.3002'
+      spawned: true
+      sneak:
+        sneaking: false
+      skintrait:
+        fetchDefaultSkin: true
+        updateSkins: false
+        signature: TU/SCpcfAYvuSOhnWopjJIObsL/qXyupIqdUqFtEh2GA/Fn+eJPbjI+DgmZoJKPVTdsfhemhfa9W3aan6hn6vMzByTn2DodJrukfdXWyFAYNHfgEXQltiZeZ/LWJYglSNBY02+Lcilao2Om+TD+/FkOzy/Dx5Eh21BCB4AtLnAKVcbmCa5SAkI5yRcoPfQ7DbOrwIUb8YaITdnCvhBfuWLGrX1ZaoktplaIpD0RyJZY5a00jUZXFeqmgHf8Pssgk22UDOVA6TEB+Y4TGaNkTnwvbxzk1anfIViR5uSqaRkKZL07KEKDnqJlnHnG0pc8bIhocK2XUI7F05T6HyUBOZFqjTLIxWItP9uCqqJCd2w7Bz1wS06hXuGbRQN6e6DBuHjM+TEyvNsHpifJfAdSFbTeKIjc+vcxBaYTlehDuDYC2FkS83oq0KLx2D/UUL39iqejnL0StwfbWqfsgovhHBNsuDrpWfbL0bKIp5+EszwYQGhOR0MIIpV7c9UJv8zj4BhKpn0Bs/8W4jk+6kU7Wii9VJE5m6KUXDD2aKRVd35x8jQXpzJsqU0abZFTX73ubUm2u7E9JcxoU4xypE3XQ7vPNbeaw9HSmYCgRe0qjAJu+pctXDUcjVZLCHDWgT/dMA2GPtOcyqb7gJJ9dxryg/sDg3oQSZFEWJvMKSJAgLaI=
+        skinName: stingyzz
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTY0MjYxNzIzMDA1OSwKICAicHJvZmlsZUlkIiA6ICIyMTI4NWZkZTM1MTA0YWY2YWNiMTZmNWMyY2NlNjA3YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdGluZ3l6eiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83YzVjMWU1YzRiYTU4Y2JjZjFiYjgwOGE5Nzc3MzVmZjMxYzdlM2Y5Nzg0MjViYzZmMzJiYWJhNjMzZTYxMWQyIgogICAgfQogIH0KfQ==
+      type: PLAYER
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1.0
+        hideErrorMessages: false
+    traitnames: type,spawned,skintrait,sneak,scoreboardtrait,location,inventory,equipment,mounttrait,owner,commandtrait
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+    metadata:
+      cached-skin-uuid-name: stingyzz
+      cached-skin-uuid: 21285fde-3510-4af6-acb1-6f5c2cce607a
+  '12':
+    name: §5§lCOSMETICS
+    uuid: 50d11d87-1cbd-4591-bc99-62a9c89a63c5
+    traits:
+      spawned: true
+      skintrait:
+        fetchDefaultSkin: true
+        updateSkins: false
+        signature: Kqpj30kXLUbp2FbczZN8UwPNMjQrt0507FT5UNIlyMhM/d4zSf2BPdohlnOLTP2BPXeRqPcpfs65MgliUO8ILoUKPRqRSZRc0AnTIBgtSWzHuNKAX/wiVrjB4KW/4h+9oUbPbIgmjS66uFke9+rxKFdkCHSgsTlkbyut1zXUkHv6nbfcWOFb3RcJidUWPyXbvV7wXj5f3W82Q4nW291QLy9leVDgYMf3c+3o/OVcusgNz1/WGPOE+F+2g7ZcPguDvAGN7t8mvQX3tCHlIWy7P4Wrz6GTW/vY9x9v0wVM88yTT6bjTpLvBkUGdop1hW+xaVNV3FjwoICSn9nDhebugt/tQt9SHBdYAZbxSThjhhDLKymKxxjMNCTl6eBu/EbeZjg6jpMmKMDk788IpzEcWwN65TVLmL2MCLF7l6H5ebwQrLqWB3yv0nTQqyVHQWxxh2Mrl1DV9zg80E3zq5hpuipP/sZsxd5CML2EjpQzQHwaYkfZhQEsWOC3+IUhRARgUohPA9U8Gx3X82sf607f2hrx4kBoD1qEtXr3NPP9wE1RFZNbUbM37Y3AOeKBjtCSnaJr067DOkusXBUncw6dJA/O4/z4TlPKZUzsH6XR3zMqCsWJuBCjOJWrhgg2KuRCQpck2/3C8SUrNNDjsFsmTA08DIm6Q6x5/NM6DpsTO3g=
+        skinName: spiderrobotman
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTY0Mjc3OTQ5MTYwMiwKICAicHJvZmlsZUlkIiA6ICIyOGJiMjkwY2NjZTU0ODFjYjE1OGQ3ZjlhMDQyMTAwZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTcGlkZXJSb2JvdE1hbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iOTdkNzM3YjBiMGNjMWI0ODU1YTBiYTQ4NzE3Y2ZkZGEwZDgzYjVlYjkxMzBmMzk5MjI2YmYwYjVkZWMzMGMwIgogICAgfQogIH0KfQ==
+      owner:
+        uuid: f0e7f028-4955-4dc8-8e40-d334ef0bd19a
+      location:
+        bodyYaw: -153.81958
+        world: skywars_world
+        x: '2.7176'
+        y: '66.0'
+        z: '41.4865'
+        yaw: '-153.8196'
+        pitch: '-9.1503'
+      sneak:
+        sneaking: false
+      type: PLAYER
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1.0
+        hideErrorMessages: false
+        commands:
+          '0':
+            command: gmenu main
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+    traitnames: type,skintrait,spawned,sneak,scoreboardtrait,location,inventory,equipment,mounttrait,owner,commandtrait
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+    metadata:
+      cached-skin-uuid-name: spiderrobotman
+      cached-skin-uuid: 28bb290c-cce5-481c-b158-d7f9a042100d
+  '11':
+    name: §2§lOPTIONS
+    uuid: ea56c97e-49a5-4d18-a0d5-2401ffc3c984
+    traits:
+      spawned: true
+      skintrait:
+        fetchDefaultSkin: true
+        updateSkins: false
+        signature: GBgFUAO/+lWGQ//4i5dT7h7J/zoUnUkGuOXO0n4EtJ+DK7HcnjA5KHtUMGDf/EsU/FwkdXLcW5iy5UfY8pUgAb2wIMtRrPMJkHYULXHo77vaMFcBzhi4hZj7Qerzx6wlYAEoiITJIorPgHhRiW3WGlbHCyIwxptEE9oATbD7i2C/bR8tU7zqkThfJhZWNg55uYNq/JdkLrerPEx97jvlLVY/Psxif2EXUosSxHcko7iKA6AF3Cq98EbLQj2Lh9UvRj2v3pUw5iM6MPHSxEclkJv2DXMYxFh+9XFznUUxD0ILMFXYmFncb7/Z4GPFiHDYT18GqS+npj9GKpB1L12Dr9UNQIWD/0nqMHM/l3WO97ZLRFEneuuixxmo2qEnIXherrfM2YF8KztC0BdCsRFCfrgTAJP/1hcsHJNXai1Em80e4SXxU86K8/votgMhncd8Ixc61hUgp7uZ8EWwD2DOiJlALJZ94f3xPKQmHxtCBCyMDm9qT8wNhl6mdntW3DKF71gB0pqP9DRsRUbc2MNUHrNUfz2BLZbV3KKWsL75JAfTEpxy7D1lgUypcoZN2VngXcOoNV9msJD4XQrC76PzJgV6biR/zOnPYRBMuy+pyuQAF1wBGA5N/RIOMM/v9l7bs6+y8nXZLDzg+SdF7857Fh2uGRH+FlBJ0ZuEMjb25Aw=
+        skinName: aaron1998ish
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTY0Mjc3OTQ4MTYxNywKICAicHJvZmlsZUlkIiA6ICI5Y2Q0MTk4NDk4MTc0YjZjYThlN2ZlNGQzM2QxZTZjYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJhYXJvbjE5OThpc2giLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWU3YzNkNWJjODQ2NzNiZWY1Nzk3ODQ4MDE5NWE0YmMzNWMxOWMxYWMxMGY5ZTJkMWQ4NWE5YzhkMzZhYzNiMiIKICAgIH0KICB9Cn0=
+      owner:
+        uuid: f0e7f028-4955-4dc8-8e40-d334ef0bd19a
+      location:
+        bodyYaw: -159.83044
+        world: skywars_world
+        x: '4.3622'
+        y: '66.0'
+        z: '43.3316'
+        yaw: '-159.8304'
+        pitch: '-6.75'
+      sneak:
+        sneaking: false
+      type: PLAYER
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1.0
+        hideErrorMessages: false
+        commands:
+          '0':
+            command: sw options
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+    traitnames: type,skintrait,sneak,spawned,scoreboardtrait,location,inventory,equipment,mounttrait,owner,commandtrait
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+    metadata:
+      cached-skin-uuid-name: aaron1998ish
+      cached-skin-uuid: 9cd41984-9817-4b6c-a8e7-fe4d33d1e6cb
+  '10':
+    name: §c§lSTATS
+    uuid: ed162553-14d6-46d7-894b-4d08946a58c3
+    traits:
+      spawned: true
+      skintrait:
+        fetchDefaultSkin: true
+        updateSkins: false
+        signature: xA/iW0DtMXZGf23whJQgAKyRrEqyrdU7AddfL7BptZ4PO1ikLEf+kb4SL7gyscbsMW1n5xP3/aUSXYHn9XDJzUmRtoXM5S1uQ4TQfqBg0RQohiBejIDzPcm+vJ7BbiZX5s5diPJbFVcCW5ZDmpL0amXwSfkV7I12SlVh1VVyIKoFzTaCkSVaHgnlZjtpiAFvaNnyhBZSS00WepFftp74XaHoYS1RosoRi2yHrmlx1uu0DgmH37WHWmlH6vaVVPwz5ChmcPSCL1xKqZlYrZLQRBTFt13IhiZ3AJzDFvqZV47U7vzYM68OyisQPzzg1w1OODcikN8KIkES0uMXyib/lfFqIgS62A2vAiqo87jpbntWsGJ9Qdw8BRIx7xAJivgaJDdbZQRR2bnJsroH5V4wGT92d9jfuXuCldJggVNB5IVJI0g+4AAa78kG772IEBRm0odT7Xs7WEs6JiIHsEq55k3XG5HusOb5bHoREla7FuX8it3IaCyFzjOq+/q3ZoGCdD145/pV5CT0etgREqiiVnb2MQpGQ2o6yWyb9l8bSN6e656u/mZy8tPmOwzjJI3/F0NbJl0kBSHCARD+1ZjucB2bTjO4KzsloKv3oJCK5LF7X0+gmAR9FcEdJNCSXyS1JYsqcYJ/jxMzx46JjehMIHGU/7qZKMuAlP0D0JMDpnA=
+        skinName: robert_beckley
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTY0Mjc3OTQ2MTYxMCwKICAicHJvZmlsZUlkIiA6ICJjMGE2OGFmNmU0ZWU0YjJiYjZiZDQyODdkOTdmMDc1NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJyb2JlcnRfYmVja2xleSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jOTFmY2NhYjM2MTRjYjZiOTI5NzlkMjVhOWYxNzM5M2ViMzA5YjcxNTQ4YzYxOGIzMzRiYjBkNjRmZjYzZTQxIgogICAgfQogIH0KfQ==
+      owner:
+        uuid: f0e7f028-4955-4dc8-8e40-d334ef0bd19a
+      location:
+        bodyYaw: -160.97498
+        world: skywars_world
+        x: '5.5636'
+        y: '66.0'
+        z: '45.2025'
+        yaw: '-160.975'
+        pitch: '-5.5503'
+      sneak:
+        sneaking: false
+      type: PLAYER
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1.0
+        hideErrorMessages: false
+        commands:
+          '0':
+            command: sw stats
+            hand: RIGHT
+            player: true
+            op: false
+            cooldown: 0
+            globalcooldown: 0
+            n: -1
+            delay: 0
+    traitnames: type,sneak,spawned,skintrait,scoreboardtrait,location,inventory,equipment,mounttrait,owner,commandtrait
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+    metadata:
+      cached-skin-uuid-name: robert_beckley
+      cached-skin-uuid: c0a68af6-e4ee-4b2b-b6bd-4287d97f0755
